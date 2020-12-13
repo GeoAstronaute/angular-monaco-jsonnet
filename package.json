@@ -11,6 +11,7 @@
   },
   "private": true,
   "dependencies": {
+    "@angular-builders/custom-webpack": "^10.0.1",
     "@angular/animations": "~11.0.4",
     "@angular/common": "~11.0.4",
     "@angular/compiler": "~11.0.4",
@@ -19,6 +20,10 @@
     "@angular/platform-browser": "~11.0.4",
     "@angular/platform-browser-dynamic": "~11.0.4",
     "@angular/router": "~11.0.4",
+    "monaco-editor": "^0.20.0",
+    "monaco-editor-webpack-plugin": "^2.0.0",
+    "monaco-editor-webpack-plugin-with-jsonnet": "^1.9.1",
+    "monaco-jsonnet": "^3.0.6-beta",
     "rxjs": "~6.6.0",
     "tslib": "^2.0.0",
     "zone.js": "~0.10.2"
